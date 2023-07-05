@@ -1,4 +1,4 @@
-#version 2
+#version 3
 django==3.2
 djangorestframework
 djangorestframework-simplejwt
